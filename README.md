@@ -1,2 +1,5 @@
-# compress-png-thumbnails
-Compresses png thumbnails on Linux operating systems (GTK &amp; KDE)
+# Compress PNG Thumbnails
+Compresses PNG thumbnails on Linux operating systems (GTK & KDE)
+
+# Dependencies
+pngquant
